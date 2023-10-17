@@ -1,15 +1,14 @@
 # p3_ch02_ttoss_app
 
 
-
-## Github :
-
+## flutter-fast-app-base Github :
 https://github.com/orgs/zrookie-flutter-fast/flutter-fast-app-base
 
 Fork 후
 
 ## 프로젝트 생성 :
-
 git clone https://github.com/zrookie-flutter-fast/p3_ch02_ttoss_app.git
 
 
+## 04. 스플래시 화면: flutter_native_splash 생성:
+flutter pub run flutter_native_splash:create
