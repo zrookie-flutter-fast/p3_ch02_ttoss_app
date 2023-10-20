@@ -22,10 +22,16 @@ final bankAccountKakao =
 
 final bankAccounts = [
   bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
+  bankAccountShinhan1,
   bankAccountShinhan2,
   bankAccountShinhan3,
   bankAccountToss,
-  bankAccountKakao,
+  bankAccountKakao
 ];
 
 // 2. Map: key와 value를 가지고 있는 배열 (순서가 보장되지 않는다.)
